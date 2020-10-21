@@ -7,4 +7,5 @@
 <a href="mailto:pieerry@gmail.com"><img alt="Email" src="https://img.shields.io/badge/pieerry@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-[![Pierry Borges GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pierry&show_icons=true&count_private=true)](https://github.com/pierry)
+![Pierry's github stats](https://github-readme-stats.vercel.app/api?username=Pierry&show_icons=true&theme=dracula)
+
